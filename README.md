@@ -1,6 +1,6 @@
 # Anki
 
-This was create for a Scrimba Student Session introducing the Anki flashcards app.
+This was created for a Scrimba Student Session introducing the Anki flashcards app.
 
 The GitHub repo will contain Anki flashcard decks
 
