@@ -7,3 +7,6 @@ The GitHub repo will contain Anki flashcard decks
 First Deck added focuses on HTML and includes "fill in the blank" style questions that requires a "type your answer" response.
 
 The Anki app can be downloaded from https://apps.ankiweb.net/
+
+The Anki Manual can be found here https://docs.ankiweb.net/
+
